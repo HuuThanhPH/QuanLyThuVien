@@ -1,0 +1,158 @@
+C:\Users\locve\OneDrive\Documents\qltv-quan-ly-thu-vien-.net\quanly_tv\quanly_tv\bin\Debug\quanly_tv.exe.config
+C:\Users\locve\OneDrive\Documents\qltv-quan-ly-thu-vien-.net\quanly_tv\quanly_tv\bin\Debug\quanly_tv.exe
+C:\Users\locve\OneDrive\Documents\qltv-quan-ly-thu-vien-.net\quanly_tv\quanly_tv\bin\Debug\quanly_tv.pdb
+C:\Users\locve\OneDrive\Documents\qltv-quan-ly-thu-vien-.net\quanly_tv\quanly_tv\obj\Debug\quanly_tv.csprojResolveAssemblyReference.cache
+C:\Users\locve\OneDrive\Documents\qltv-quan-ly-thu-vien-.net\quanly_tv\quanly_tv\obj\Debug\quanly_tv.Properties.Resources.resources
+C:\Users\locve\OneDrive\Documents\qltv-quan-ly-thu-vien-.net\quanly_tv\quanly_tv\obj\Debug\quanly_tv.csproj.GenerateResource.Cache
+C:\Users\locve\OneDrive\Documents\qltv-quan-ly-thu-vien-.net\quanly_tv\quanly_tv\obj\Debug\quanly_tv.exe
+C:\Users\locve\OneDrive\Documents\qltv-quan-ly-thu-vien-.net\quanly_tv\quanly_tv\obj\Debug\quanly_tv.pdb
+C:\Users\locve\OneDrive\Documents\qltv-quan-ly-thu-vien-.net\quanly_tv\quanly_tv\bin\Debug\Guna.UI.dll
+C:\Users\locve\OneDrive\Documents\qltv-quan-ly-thu-vien-.net\quanly_tv\quanly_tv\obj\Debug\quanly_tv.Form1.resources
+C:\Users\locve\OneDrive\Documents\qltv-quan-ly-thu-vien-.net\quanly_tv\quanly_tv\obj\Debug\quanly_tv.Home.resources
+C:\Users\locve\OneDrive\Documents\qltv-quan-ly-thu-vien-.net\quanly_tv\quanly_tv\obj\Debug\quanly_tv.themsach.resources
+C:\Users\locve\OneDrive\Documents\qltv-quan-ly-thu-vien-.net\quanly_tv\quanly_tv\obj\Debug\quanly_tv.themtacgia.resources
+C:\Users\locve\OneDrive\Documents\qltv-quan-ly-thu-vien-.net\quanly_tv\quanly_tv\obj\Debug\quanly_tv.themloaisach.resources
+C:\Users\locve\OneDrive\Documents\qltv-quan-ly-thu-vien-.net\quanly_tv\quanly_tv\obj\Debug\quanly_tv.themdocgia.resources
+C:\Users\locve\OneDrive\Documents\qltv-quan-ly-thu-vien-.net\quanly_tv\quanly_tv\obj\Debug\quanly_tv.themnxb.resources
+C:\Users\locve\OneDrive\Documents\qltv-quan-ly-thu-vien-.net\quanly_tv\quanly_tv\obj\Debug\quanly_tv.nhanvien.resources
+C:\Users\locve\OneDrive\Documents\qltv-quan-ly-thu-vien-.net\quanly_tv\quanly_tv\obj\Debug\quanly_tv.muonsach.resources
+C:\Users\locve\Downloads\qltv-quan-ly-thu-vien-.net (1)\qltv-quan-ly-thu-vien-.net\quanly_tv\quanly_tv\bin\Debug\quanly_tv.exe.config
+C:\Users\locve\Downloads\qltv-quan-ly-thu-vien-.net (1)\qltv-quan-ly-thu-vien-.net\quanly_tv\quanly_tv\obj\Debug\quanly_tv.exe
+C:\Users\locve\Downloads\qltv-quan-ly-thu-vien-.net (1)\qltv-quan-ly-thu-vien-.net\quanly_tv\quanly_tv\obj\Debug\quanly_tv.pdb
+C:\Users\locve\Downloads\qltv-quan-ly-thu-vien-.net (1)\qltv-quan-ly-thu-vien-.net\quanly_tv\quanly_tv\bin\Debug\quanly_tv.exe
+C:\Users\locve\Downloads\qltv-quan-ly-thu-vien-.net (1)\qltv-quan-ly-thu-vien-.net\quanly_tv\quanly_tv\bin\Debug\quanly_tv.pdb
+C:\Users\locve\Downloads\qltv-quan-ly-thu-vien-.net (1)\qltv-quan-ly-thu-vien-.net\quanly_tv\quanly_tv\bin\Debug\Guna.UI.dll
+C:\Users\locve\Downloads\qltv-quan-ly-thu-vien-.net (1)\qltv-quan-ly-thu-vien-.net\quanly_tv\quanly_tv\obj\Debug\quanly_tv.csprojResolveAssemblyReference.cache
+C:\Users\locve\Downloads\qltv-quan-ly-thu-vien-.net (1)\qltv-quan-ly-thu-vien-.net\quanly_tv\quanly_tv\obj\Debug\quanly_tv.Form1.resources
+C:\Users\locve\Downloads\qltv-quan-ly-thu-vien-.net (1)\qltv-quan-ly-thu-vien-.net\quanly_tv\quanly_tv\obj\Debug\quanly_tv.Home.resources
+C:\Users\locve\Downloads\qltv-quan-ly-thu-vien-.net (1)\qltv-quan-ly-thu-vien-.net\quanly_tv\quanly_tv\obj\Debug\quanly_tv.muonsach.resources
+C:\Users\locve\Downloads\qltv-quan-ly-thu-vien-.net (1)\qltv-quan-ly-thu-vien-.net\quanly_tv\quanly_tv\obj\Debug\quanly_tv.nhanvien.resources
+C:\Users\locve\Downloads\qltv-quan-ly-thu-vien-.net (1)\qltv-quan-ly-thu-vien-.net\quanly_tv\quanly_tv\obj\Debug\quanly_tv.Properties.Resources.resources
+C:\Users\locve\Downloads\qltv-quan-ly-thu-vien-.net (1)\qltv-quan-ly-thu-vien-.net\quanly_tv\quanly_tv\obj\Debug\quanly_tv.themdocgia.resources
+C:\Users\locve\Downloads\qltv-quan-ly-thu-vien-.net (1)\qltv-quan-ly-thu-vien-.net\quanly_tv\quanly_tv\obj\Debug\quanly_tv.themloaisach.resources
+C:\Users\locve\Downloads\qltv-quan-ly-thu-vien-.net (1)\qltv-quan-ly-thu-vien-.net\quanly_tv\quanly_tv\obj\Debug\quanly_tv.themnxb.resources
+C:\Users\locve\Downloads\qltv-quan-ly-thu-vien-.net (1)\qltv-quan-ly-thu-vien-.net\quanly_tv\quanly_tv\obj\Debug\quanly_tv.themsach.resources
+C:\Users\locve\Downloads\qltv-quan-ly-thu-vien-.net (1)\qltv-quan-ly-thu-vien-.net\quanly_tv\quanly_tv\obj\Debug\quanly_tv.themtacgia.resources
+C:\Users\locve\Downloads\qltv-quan-ly-thu-vien-.net (1)\qltv-quan-ly-thu-vien-.net\quanly_tv\quanly_tv\obj\Debug\quanly_tv.csproj.GenerateResource.Cache
+C:\Users\locve\Downloads\qltv-quan-ly-thu-vien-.net (1)\qltv-quan-ly-thu-vien-.net\quanly_tv\quanly_tv\obj\Debug\quanly_tv.passwordnv.resources
+C:\Users\locve\Downloads\qltv-quan-ly-thu-vien-.net (1)\qltv-quan-ly-thu-vien-.net\quanly_tv\quanly_tv\obj\Debug\quanly_tv.NhanVienDashBoard.resources
+C:\Users\locve\OneDrive\Documents\qltv-quan-ly-thu-vien-.net (1)\qltv-quan-ly-thu-vien-.net\quanly_tv\quanly_tv\bin\Debug\quanly_tv.exe.config
+C:\Users\locve\OneDrive\Documents\qltv-quan-ly-thu-vien-.net (1)\qltv-quan-ly-thu-vien-.net\quanly_tv\quanly_tv\obj\Debug\quanly_tv.exe
+C:\Users\locve\OneDrive\Documents\qltv-quan-ly-thu-vien-.net (1)\qltv-quan-ly-thu-vien-.net\quanly_tv\quanly_tv\obj\Debug\quanly_tv.pdb
+C:\Users\locve\OneDrive\Documents\qltv-quan-ly-thu-vien-.net (1)\qltv-quan-ly-thu-vien-.net\quanly_tv\quanly_tv\bin\Debug\quanly_tv.exe
+C:\Users\locve\OneDrive\Documents\qltv-quan-ly-thu-vien-.net (1)\qltv-quan-ly-thu-vien-.net\quanly_tv\quanly_tv\bin\Debug\quanly_tv.pdb
+C:\Users\locve\OneDrive\Documents\qltv-quan-ly-thu-vien-.net (1)\qltv-quan-ly-thu-vien-.net\quanly_tv\quanly_tv\obj\Debug\quanly_tv.csprojResolveAssemblyReference.cache
+C:\Users\locve\OneDrive\Documents\qltv-quan-ly-thu-vien-.net (1)\qltv-quan-ly-thu-vien-.net\quanly_tv\quanly_tv\obj\Debug\quanly_tv.Form1.resources
+C:\Users\locve\OneDrive\Documents\qltv-quan-ly-thu-vien-.net (1)\qltv-quan-ly-thu-vien-.net\quanly_tv\quanly_tv\obj\Debug\quanly_tv.Home.resources
+C:\Users\locve\OneDrive\Documents\qltv-quan-ly-thu-vien-.net (1)\qltv-quan-ly-thu-vien-.net\quanly_tv\quanly_tv\obj\Debug\quanly_tv.muonsach.resources
+C:\Users\locve\OneDrive\Documents\qltv-quan-ly-thu-vien-.net (1)\qltv-quan-ly-thu-vien-.net\quanly_tv\quanly_tv\obj\Debug\quanly_tv.nhanvien.resources
+C:\Users\locve\OneDrive\Documents\qltv-quan-ly-thu-vien-.net (1)\qltv-quan-ly-thu-vien-.net\quanly_tv\quanly_tv\obj\Debug\quanly_tv.NhanVienDashBoard.resources
+C:\Users\locve\OneDrive\Documents\qltv-quan-ly-thu-vien-.net (1)\qltv-quan-ly-thu-vien-.net\quanly_tv\quanly_tv\obj\Debug\quanly_tv.passwordnv.resources
+C:\Users\locve\OneDrive\Documents\qltv-quan-ly-thu-vien-.net (1)\qltv-quan-ly-thu-vien-.net\quanly_tv\quanly_tv\obj\Debug\quanly_tv.Properties.Resources.resources
+C:\Users\locve\OneDrive\Documents\qltv-quan-ly-thu-vien-.net (1)\qltv-quan-ly-thu-vien-.net\quanly_tv\quanly_tv\obj\Debug\quanly_tv.themdocgia.resources
+C:\Users\locve\OneDrive\Documents\qltv-quan-ly-thu-vien-.net (1)\qltv-quan-ly-thu-vien-.net\quanly_tv\quanly_tv\obj\Debug\quanly_tv.themloaisach.resources
+C:\Users\locve\OneDrive\Documents\qltv-quan-ly-thu-vien-.net (1)\qltv-quan-ly-thu-vien-.net\quanly_tv\quanly_tv\obj\Debug\quanly_tv.themnxb.resources
+C:\Users\locve\OneDrive\Documents\qltv-quan-ly-thu-vien-.net (1)\qltv-quan-ly-thu-vien-.net\quanly_tv\quanly_tv\obj\Debug\quanly_tv.themsach.resources
+C:\Users\locve\OneDrive\Documents\qltv-quan-ly-thu-vien-.net (1)\qltv-quan-ly-thu-vien-.net\quanly_tv\quanly_tv\obj\Debug\quanly_tv.themtacgia.resources
+C:\Users\locve\OneDrive\Documents\qltv-quan-ly-thu-vien-.net (1)\qltv-quan-ly-thu-vien-.net\quanly_tv\quanly_tv\obj\Debug\quanly_tv.csproj.GenerateResource.Cache
+C:\Users\locve\Downloads\qltv-quan-ly-thu-vien-.net-nhóm1\qltv-quan-ly-thu-vien-.net-nhóm1\quanly_tv\quanly_tv\bin\Debug\quanly_tv.exe.config
+C:\Users\locve\Downloads\qltv-quan-ly-thu-vien-.net-nhóm1\qltv-quan-ly-thu-vien-.net-nhóm1\quanly_tv\quanly_tv\obj\Debug\quanly_tv.exe
+C:\Users\locve\Downloads\qltv-quan-ly-thu-vien-.net-nhóm1\qltv-quan-ly-thu-vien-.net-nhóm1\quanly_tv\quanly_tv\obj\Debug\quanly_tv.pdb
+C:\Users\locve\Downloads\qltv-quan-ly-thu-vien-.net-nhóm1\qltv-quan-ly-thu-vien-.net-nhóm1\quanly_tv\quanly_tv\bin\Debug\quanly_tv.exe
+C:\Users\locve\Downloads\qltv-quan-ly-thu-vien-.net-nhóm1\qltv-quan-ly-thu-vien-.net-nhóm1\quanly_tv\quanly_tv\bin\Debug\quanly_tv.pdb
+C:\Users\locve\Downloads\qltv-quan-ly-thu-vien-.net-nhóm1\qltv-quan-ly-thu-vien-.net-nhóm1\quanly_tv\quanly_tv\bin\Debug\Guna.UI.dll
+C:\Users\locve\Downloads\qltv-quan-ly-thu-vien-.net-nhóm1\qltv-quan-ly-thu-vien-.net-nhóm1\quanly_tv\quanly_tv\obj\Debug\quanly_tv.csprojResolveAssemblyReference.cache
+C:\Users\locve\Downloads\qltv-quan-ly-thu-vien-.net-nhóm1\qltv-quan-ly-thu-vien-.net-nhóm1\quanly_tv\quanly_tv\obj\Debug\quanly_tv.Form1.resources
+C:\Users\locve\Downloads\qltv-quan-ly-thu-vien-.net-nhóm1\qltv-quan-ly-thu-vien-.net-nhóm1\quanly_tv\quanly_tv\obj\Debug\quanly_tv.Home.resources
+C:\Users\locve\Downloads\qltv-quan-ly-thu-vien-.net-nhóm1\qltv-quan-ly-thu-vien-.net-nhóm1\quanly_tv\quanly_tv\obj\Debug\quanly_tv.muonsach.resources
+C:\Users\locve\Downloads\qltv-quan-ly-thu-vien-.net-nhóm1\qltv-quan-ly-thu-vien-.net-nhóm1\quanly_tv\quanly_tv\obj\Debug\quanly_tv.nhanvien.resources
+C:\Users\locve\Downloads\qltv-quan-ly-thu-vien-.net-nhóm1\qltv-quan-ly-thu-vien-.net-nhóm1\quanly_tv\quanly_tv\obj\Debug\quanly_tv.NhanVienDashBoard.resources
+C:\Users\locve\Downloads\qltv-quan-ly-thu-vien-.net-nhóm1\qltv-quan-ly-thu-vien-.net-nhóm1\quanly_tv\quanly_tv\obj\Debug\quanly_tv.passwordnv.resources
+C:\Users\locve\Downloads\qltv-quan-ly-thu-vien-.net-nhóm1\qltv-quan-ly-thu-vien-.net-nhóm1\quanly_tv\quanly_tv\obj\Debug\quanly_tv.Properties.Resources.resources
+C:\Users\locve\Downloads\qltv-quan-ly-thu-vien-.net-nhóm1\qltv-quan-ly-thu-vien-.net-nhóm1\quanly_tv\quanly_tv\obj\Debug\quanly_tv.themdocgia.resources
+C:\Users\locve\Downloads\qltv-quan-ly-thu-vien-.net-nhóm1\qltv-quan-ly-thu-vien-.net-nhóm1\quanly_tv\quanly_tv\obj\Debug\quanly_tv.themloaisach.resources
+C:\Users\locve\Downloads\qltv-quan-ly-thu-vien-.net-nhóm1\qltv-quan-ly-thu-vien-.net-nhóm1\quanly_tv\quanly_tv\obj\Debug\quanly_tv.themnxb.resources
+C:\Users\locve\Downloads\qltv-quan-ly-thu-vien-.net-nhóm1\qltv-quan-ly-thu-vien-.net-nhóm1\quanly_tv\quanly_tv\obj\Debug\quanly_tv.themsach.resources
+C:\Users\locve\Downloads\qltv-quan-ly-thu-vien-.net-nhóm1\qltv-quan-ly-thu-vien-.net-nhóm1\quanly_tv\quanly_tv\obj\Debug\quanly_tv.themtacgia.resources
+C:\Users\locve\Downloads\qltv-quan-ly-thu-vien-.net-nhóm1\qltv-quan-ly-thu-vien-.net-nhóm1\quanly_tv\quanly_tv\obj\Debug\quanly_tv.csproj.GenerateResource.Cache
+C:\Users\loc\Documents\qltv-quan-ly-thu-vien-.net-nhóm1\quanly_tv\quanly_tv\bin\Debug\quanly_tv.exe.config
+C:\Users\loc\Documents\qltv-quan-ly-thu-vien-.net-nhóm1\quanly_tv\quanly_tv\obj\Debug\quanly_tv.exe
+C:\Users\loc\Documents\qltv-quan-ly-thu-vien-.net-nhóm1\quanly_tv\quanly_tv\obj\Debug\quanly_tv.pdb
+C:\Users\loc\Documents\qltv-quan-ly-thu-vien-.net-nhóm1\quanly_tv\quanly_tv\bin\Debug\quanly_tv.exe
+C:\Users\loc\Documents\qltv-quan-ly-thu-vien-.net-nhóm1\quanly_tv\quanly_tv\bin\Debug\quanly_tv.pdb
+C:\Users\loc\Documents\qltv-quan-ly-thu-vien-.net-nhóm1\quanly_tv\quanly_tv\obj\Debug\quanly_tv.csprojResolveAssemblyReference.cache
+C:\Users\loc\Documents\qltv-quan-ly-thu-vien-.net-nhóm1\quanly_tv\quanly_tv\obj\Debug\quanly_tv.Form1.resources
+C:\Users\loc\Documents\qltv-quan-ly-thu-vien-.net-nhóm1\quanly_tv\quanly_tv\obj\Debug\quanly_tv.Home.resources
+C:\Users\loc\Documents\qltv-quan-ly-thu-vien-.net-nhóm1\quanly_tv\quanly_tv\obj\Debug\quanly_tv.muonsach.resources
+C:\Users\loc\Documents\qltv-quan-ly-thu-vien-.net-nhóm1\quanly_tv\quanly_tv\obj\Debug\quanly_tv.nhanvien.resources
+C:\Users\loc\Documents\qltv-quan-ly-thu-vien-.net-nhóm1\quanly_tv\quanly_tv\obj\Debug\quanly_tv.NhanVienDashBoard.resources
+C:\Users\loc\Documents\qltv-quan-ly-thu-vien-.net-nhóm1\quanly_tv\quanly_tv\obj\Debug\quanly_tv.passwordnv.resources
+C:\Users\loc\Documents\qltv-quan-ly-thu-vien-.net-nhóm1\quanly_tv\quanly_tv\obj\Debug\quanly_tv.Properties.Resources.resources
+C:\Users\loc\Documents\qltv-quan-ly-thu-vien-.net-nhóm1\quanly_tv\quanly_tv\obj\Debug\quanly_tv.themdocgia.resources
+C:\Users\loc\Documents\qltv-quan-ly-thu-vien-.net-nhóm1\quanly_tv\quanly_tv\obj\Debug\quanly_tv.themloaisach.resources
+C:\Users\loc\Documents\qltv-quan-ly-thu-vien-.net-nhóm1\quanly_tv\quanly_tv\obj\Debug\quanly_tv.themnxb.resources
+C:\Users\loc\Documents\qltv-quan-ly-thu-vien-.net-nhóm1\quanly_tv\quanly_tv\obj\Debug\quanly_tv.themsach.resources
+C:\Users\loc\Documents\qltv-quan-ly-thu-vien-.net-nhóm1\quanly_tv\quanly_tv\obj\Debug\quanly_tv.themtacgia.resources
+C:\Users\loc\Documents\qltv-quan-ly-thu-vien-.net-nhóm1\quanly_tv\quanly_tv\obj\Debug\quanly_tv.csproj.GenerateResource.Cache
+C:\Users\loc\Documents\qltv-quan-ly-thu-vien-.net-nhóm1\qltv-quan-ly-thu-vien-.net-nhóm1\quanly_tv\quanly_tv\bin\Debug\quanly_tv.exe.config
+C:\Users\loc\Documents\qltv-quan-ly-thu-vien-.net-nhóm1\qltv-quan-ly-thu-vien-.net-nhóm1\quanly_tv\quanly_tv\obj\Debug\quanly_tv.exe
+C:\Users\loc\Documents\qltv-quan-ly-thu-vien-.net-nhóm1\qltv-quan-ly-thu-vien-.net-nhóm1\quanly_tv\quanly_tv\obj\Debug\quanly_tv.pdb
+C:\Users\loc\Documents\qltv-quan-ly-thu-vien-.net-nhóm1\qltv-quan-ly-thu-vien-.net-nhóm1\quanly_tv\quanly_tv\bin\Debug\quanly_tv.exe
+C:\Users\loc\Documents\qltv-quan-ly-thu-vien-.net-nhóm1\qltv-quan-ly-thu-vien-.net-nhóm1\quanly_tv\quanly_tv\bin\Debug\quanly_tv.pdb
+C:\Users\loc\Documents\qltv-quan-ly-thu-vien-.net-nhóm1\qltv-quan-ly-thu-vien-.net-nhóm1\quanly_tv\quanly_tv\obj\Debug\quanly_tv.csprojResolveAssemblyReference.cache
+C:\Users\loc\Documents\qltv-quan-ly-thu-vien-.net-nhóm1\qltv-quan-ly-thu-vien-.net-nhóm1\quanly_tv\quanly_tv\obj\Debug\quanly_tv.Form1.resources
+C:\Users\loc\Documents\qltv-quan-ly-thu-vien-.net-nhóm1\qltv-quan-ly-thu-vien-.net-nhóm1\quanly_tv\quanly_tv\obj\Debug\quanly_tv.Home.resources
+C:\Users\loc\Documents\qltv-quan-ly-thu-vien-.net-nhóm1\qltv-quan-ly-thu-vien-.net-nhóm1\quanly_tv\quanly_tv\obj\Debug\quanly_tv.muonsach.resources
+C:\Users\loc\Documents\qltv-quan-ly-thu-vien-.net-nhóm1\qltv-quan-ly-thu-vien-.net-nhóm1\quanly_tv\quanly_tv\obj\Debug\quanly_tv.nhanvien.resources
+C:\Users\loc\Documents\qltv-quan-ly-thu-vien-.net-nhóm1\qltv-quan-ly-thu-vien-.net-nhóm1\quanly_tv\quanly_tv\obj\Debug\quanly_tv.NhanVienDashBoard.resources
+C:\Users\loc\Documents\qltv-quan-ly-thu-vien-.net-nhóm1\qltv-quan-ly-thu-vien-.net-nhóm1\quanly_tv\quanly_tv\obj\Debug\quanly_tv.passwordnv.resources
+C:\Users\loc\Documents\qltv-quan-ly-thu-vien-.net-nhóm1\qltv-quan-ly-thu-vien-.net-nhóm1\quanly_tv\quanly_tv\obj\Debug\quanly_tv.Properties.Resources.resources
+C:\Users\loc\Documents\qltv-quan-ly-thu-vien-.net-nhóm1\qltv-quan-ly-thu-vien-.net-nhóm1\quanly_tv\quanly_tv\obj\Debug\quanly_tv.themdocgia.resources
+C:\Users\loc\Documents\qltv-quan-ly-thu-vien-.net-nhóm1\qltv-quan-ly-thu-vien-.net-nhóm1\quanly_tv\quanly_tv\obj\Debug\quanly_tv.themloaisach.resources
+C:\Users\loc\Documents\qltv-quan-ly-thu-vien-.net-nhóm1\qltv-quan-ly-thu-vien-.net-nhóm1\quanly_tv\quanly_tv\obj\Debug\quanly_tv.themnxb.resources
+C:\Users\loc\Documents\qltv-quan-ly-thu-vien-.net-nhóm1\qltv-quan-ly-thu-vien-.net-nhóm1\quanly_tv\quanly_tv\obj\Debug\quanly_tv.themsach.resources
+C:\Users\loc\Documents\qltv-quan-ly-thu-vien-.net-nhóm1\qltv-quan-ly-thu-vien-.net-nhóm1\quanly_tv\quanly_tv\obj\Debug\quanly_tv.themtacgia.resources
+C:\Users\loc\Documents\qltv-quan-ly-thu-vien-.net-nhóm1\qltv-quan-ly-thu-vien-.net-nhóm1\quanly_tv\quanly_tv\obj\Debug\quanly_tv.csproj.GenerateResource.Cache
+C:\Users\loc\Documents\qltv-quan-ly-thu-vien-.net-nhóm1\qltv-quan-ly-thu-vien-.net-nhóm1\quanly_tv\quanly_tv\obj\Debug\quanly_tv.DangKy.resources
+C:\Users\loc\Downloads\qltv-quan-ly-thu-vien-.net-nhóm1\qltv-quan-ly-thu-vien-.net-nhóm1\qltv-quan-ly-thu-vien-.net-nhóm1\quanly_tv\quanly_tv\bin\Debug\quanly_tv.exe.config
+C:\Users\loc\Downloads\qltv-quan-ly-thu-vien-.net-nhóm1\qltv-quan-ly-thu-vien-.net-nhóm1\qltv-quan-ly-thu-vien-.net-nhóm1\quanly_tv\quanly_tv\obj\Debug\quanly_tv.exe
+C:\Users\loc\Downloads\qltv-quan-ly-thu-vien-.net-nhóm1\qltv-quan-ly-thu-vien-.net-nhóm1\qltv-quan-ly-thu-vien-.net-nhóm1\quanly_tv\quanly_tv\obj\Debug\quanly_tv.pdb
+C:\Users\loc\Downloads\qltv-quan-ly-thu-vien-.net-nhóm1\qltv-quan-ly-thu-vien-.net-nhóm1\qltv-quan-ly-thu-vien-.net-nhóm1\quanly_tv\quanly_tv\bin\Debug\quanly_tv.exe
+C:\Users\loc\Downloads\qltv-quan-ly-thu-vien-.net-nhóm1\qltv-quan-ly-thu-vien-.net-nhóm1\qltv-quan-ly-thu-vien-.net-nhóm1\quanly_tv\quanly_tv\bin\Debug\quanly_tv.pdb
+C:\Users\loc\Downloads\qltv-quan-ly-thu-vien-.net-nhóm1\qltv-quan-ly-thu-vien-.net-nhóm1\qltv-quan-ly-thu-vien-.net-nhóm1\quanly_tv\quanly_tv\obj\Debug\quanly_tv.csprojResolveAssemblyReference.cache
+C:\Users\loc\Downloads\qltv-quan-ly-thu-vien-.net-nhóm1\qltv-quan-ly-thu-vien-.net-nhóm1\qltv-quan-ly-thu-vien-.net-nhóm1\quanly_tv\quanly_tv\obj\Debug\quanly_tv.DangKy.resources
+C:\Users\loc\Downloads\qltv-quan-ly-thu-vien-.net-nhóm1\qltv-quan-ly-thu-vien-.net-nhóm1\qltv-quan-ly-thu-vien-.net-nhóm1\quanly_tv\quanly_tv\obj\Debug\quanly_tv.Form1.resources
+C:\Users\loc\Downloads\qltv-quan-ly-thu-vien-.net-nhóm1\qltv-quan-ly-thu-vien-.net-nhóm1\qltv-quan-ly-thu-vien-.net-nhóm1\quanly_tv\quanly_tv\obj\Debug\quanly_tv.Home.resources
+C:\Users\loc\Downloads\qltv-quan-ly-thu-vien-.net-nhóm1\qltv-quan-ly-thu-vien-.net-nhóm1\qltv-quan-ly-thu-vien-.net-nhóm1\quanly_tv\quanly_tv\obj\Debug\quanly_tv.muonsach.resources
+C:\Users\loc\Downloads\qltv-quan-ly-thu-vien-.net-nhóm1\qltv-quan-ly-thu-vien-.net-nhóm1\qltv-quan-ly-thu-vien-.net-nhóm1\quanly_tv\quanly_tv\obj\Debug\quanly_tv.nhanvien.resources
+C:\Users\loc\Downloads\qltv-quan-ly-thu-vien-.net-nhóm1\qltv-quan-ly-thu-vien-.net-nhóm1\qltv-quan-ly-thu-vien-.net-nhóm1\quanly_tv\quanly_tv\obj\Debug\quanly_tv.NhanVienDashBoard.resources
+C:\Users\loc\Downloads\qltv-quan-ly-thu-vien-.net-nhóm1\qltv-quan-ly-thu-vien-.net-nhóm1\qltv-quan-ly-thu-vien-.net-nhóm1\quanly_tv\quanly_tv\obj\Debug\quanly_tv.passwordnv.resources
+C:\Users\loc\Downloads\qltv-quan-ly-thu-vien-.net-nhóm1\qltv-quan-ly-thu-vien-.net-nhóm1\qltv-quan-ly-thu-vien-.net-nhóm1\quanly_tv\quanly_tv\obj\Debug\quanly_tv.Properties.Resources.resources
+C:\Users\loc\Downloads\qltv-quan-ly-thu-vien-.net-nhóm1\qltv-quan-ly-thu-vien-.net-nhóm1\qltv-quan-ly-thu-vien-.net-nhóm1\quanly_tv\quanly_tv\obj\Debug\quanly_tv.themdocgia.resources
+C:\Users\loc\Downloads\qltv-quan-ly-thu-vien-.net-nhóm1\qltv-quan-ly-thu-vien-.net-nhóm1\qltv-quan-ly-thu-vien-.net-nhóm1\quanly_tv\quanly_tv\obj\Debug\quanly_tv.themloaisach.resources
+C:\Users\loc\Downloads\qltv-quan-ly-thu-vien-.net-nhóm1\qltv-quan-ly-thu-vien-.net-nhóm1\qltv-quan-ly-thu-vien-.net-nhóm1\quanly_tv\quanly_tv\obj\Debug\quanly_tv.themnxb.resources
+C:\Users\loc\Downloads\qltv-quan-ly-thu-vien-.net-nhóm1\qltv-quan-ly-thu-vien-.net-nhóm1\qltv-quan-ly-thu-vien-.net-nhóm1\quanly_tv\quanly_tv\obj\Debug\quanly_tv.themsach.resources
+C:\Users\loc\Downloads\qltv-quan-ly-thu-vien-.net-nhóm1\qltv-quan-ly-thu-vien-.net-nhóm1\qltv-quan-ly-thu-vien-.net-nhóm1\quanly_tv\quanly_tv\obj\Debug\quanly_tv.themtacgia.resources
+C:\Users\loc\Downloads\qltv-quan-ly-thu-vien-.net-nhóm1\qltv-quan-ly-thu-vien-.net-nhóm1\qltv-quan-ly-thu-vien-.net-nhóm1\quanly_tv\quanly_tv\obj\Debug\quanly_tv.csproj.GenerateResource.Cache
+D:\HUUTHANH\TaiLieu\HK6\PTTKHTTT\qltv-quan-ly-thu-vien-nhom5\quanly_tv\quanly_tv\bin\Debug\quanly_tv.exe.config
+D:\HUUTHANH\TaiLieu\HK6\PTTKHTTT\qltv-quan-ly-thu-vien-nhom5\quanly_tv\quanly_tv\bin\Debug\quanly_tv.exe
+D:\HUUTHANH\TaiLieu\HK6\PTTKHTTT\qltv-quan-ly-thu-vien-nhom5\quanly_tv\quanly_tv\bin\Debug\quanly_tv.pdb
+D:\HUUTHANH\TaiLieu\HK6\PTTKHTTT\qltv-quan-ly-thu-vien-nhom5\quanly_tv\quanly_tv\obj\Debug\quanly_tv.csproj.AssemblyReference.cache
+D:\HUUTHANH\TaiLieu\HK6\PTTKHTTT\qltv-quan-ly-thu-vien-nhom5\quanly_tv\quanly_tv\obj\Debug\quanly_tv.DangKy.resources
+D:\HUUTHANH\TaiLieu\HK6\PTTKHTTT\qltv-quan-ly-thu-vien-nhom5\quanly_tv\quanly_tv\obj\Debug\quanly_tv.Form1.resources
+D:\HUUTHANH\TaiLieu\HK6\PTTKHTTT\qltv-quan-ly-thu-vien-nhom5\quanly_tv\quanly_tv\obj\Debug\quanly_tv.Home.resources
+D:\HUUTHANH\TaiLieu\HK6\PTTKHTTT\qltv-quan-ly-thu-vien-nhom5\quanly_tv\quanly_tv\obj\Debug\quanly_tv.muonsach.resources
+D:\HUUTHANH\TaiLieu\HK6\PTTKHTTT\qltv-quan-ly-thu-vien-nhom5\quanly_tv\quanly_tv\obj\Debug\quanly_tv.nhanvien.resources
+D:\HUUTHANH\TaiLieu\HK6\PTTKHTTT\qltv-quan-ly-thu-vien-nhom5\quanly_tv\quanly_tv\obj\Debug\quanly_tv.NhanVienDashBoard.resources
+D:\HUUTHANH\TaiLieu\HK6\PTTKHTTT\qltv-quan-ly-thu-vien-nhom5\quanly_tv\quanly_tv\obj\Debug\quanly_tv.passwordnv.resources
+D:\HUUTHANH\TaiLieu\HK6\PTTKHTTT\qltv-quan-ly-thu-vien-nhom5\quanly_tv\quanly_tv\obj\Debug\quanly_tv.Properties.Resources.resources
+D:\HUUTHANH\TaiLieu\HK6\PTTKHTTT\qltv-quan-ly-thu-vien-nhom5\quanly_tv\quanly_tv\obj\Debug\quanly_tv.themdocgia.resources
+D:\HUUTHANH\TaiLieu\HK6\PTTKHTTT\qltv-quan-ly-thu-vien-nhom5\quanly_tv\quanly_tv\obj\Debug\quanly_tv.themloaisach.resources
+D:\HUUTHANH\TaiLieu\HK6\PTTKHTTT\qltv-quan-ly-thu-vien-nhom5\quanly_tv\quanly_tv\obj\Debug\quanly_tv.themnxb.resources
+D:\HUUTHANH\TaiLieu\HK6\PTTKHTTT\qltv-quan-ly-thu-vien-nhom5\quanly_tv\quanly_tv\obj\Debug\quanly_tv.themsach.resources
+D:\HUUTHANH\TaiLieu\HK6\PTTKHTTT\qltv-quan-ly-thu-vien-nhom5\quanly_tv\quanly_tv\obj\Debug\quanly_tv.themtacgia.resources
+D:\HUUTHANH\TaiLieu\HK6\PTTKHTTT\qltv-quan-ly-thu-vien-nhom5\quanly_tv\quanly_tv\obj\Debug\quanly_tv.csproj.GenerateResource.cache
+D:\HUUTHANH\TaiLieu\HK6\PTTKHTTT\qltv-quan-ly-thu-vien-nhom5\quanly_tv\quanly_tv\obj\Debug\quanly_tv.csproj.CoreCompileInputs.cache
+D:\HUUTHANH\TaiLieu\HK6\PTTKHTTT\qltv-quan-ly-thu-vien-nhom5\quanly_tv\quanly_tv\obj\Debug\quanly_tv.csproj.CopyComplete
+D:\HUUTHANH\TaiLieu\HK6\PTTKHTTT\qltv-quan-ly-thu-vien-nhom5\quanly_tv\quanly_tv\obj\Debug\quanly_tv.exe
+D:\HUUTHANH\TaiLieu\HK6\PTTKHTTT\qltv-quan-ly-thu-vien-nhom5\quanly_tv\quanly_tv\obj\Debug\quanly_tv.pdb
